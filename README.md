@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NiranjanBhat123
-- 👀 I’m interested in coding and web dev
-- 🌱 I’m currently learning data strctures
+- 👀 I’m interested in coding,web dev and video editing
+   
+- 🌱 I’m currently learning data strctures 
 - 📫 How to reach me bhatniranjan65@gmail.com
 
 <!---
