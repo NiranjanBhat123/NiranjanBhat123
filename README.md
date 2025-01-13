@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱  a full stack web developer and competetive programmer g<br><br>👨‍💻 All of my projects are available at https://niranjanbhat.netlify.app<br><br>📫 How to reach me bhatniranjan65@gmail.com<br>
+🌱  a full stack web developer and competetive programmer <br><br>👨‍💻 All of my projects are available at https://niranjanbhat.netlify.app<br><br>📫 How to reach me bhatniranjan65@gmail.com<br>
 
 
 ## 🌐 Socials:
